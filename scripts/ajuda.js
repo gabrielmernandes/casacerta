@@ -20,5 +20,5 @@ function enviar(event) {
     var isLoggedIn = cadastro !== null && cadastro.isLoggedIn === true;
 
     // Redireciona para a página correta
-        window.location.href = "/paginas/HomeLogado.html";
+        window.location.href = "paginas/HomeLogado.html";
 }
