@@ -38,5 +38,5 @@ function cad(event) {
     localStorage.setItem("cadastro", JSON.stringify(cadastro));
 
     // Redireciona para a página HomeLogado.html
-    window.location.href = "paginas/homeLogado.html";
+    window.location.href = "/paginas/homeLogado.html";
 }
